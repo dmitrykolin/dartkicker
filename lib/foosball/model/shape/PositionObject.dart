@@ -1,0 +1,6 @@
+class PositionObject {
+  PositionObject() {
+  }
+
+  initPosition();
+}

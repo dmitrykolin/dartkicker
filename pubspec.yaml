@@ -1,0 +1,3 @@
+name: FoosballTableEmulator
+dependencies:
+  browser: any
