@@ -1,0 +1,9 @@
+
+class FoosballGround {
+  FoosballGround() {
+  }
+
+  render(){
+
+  }
+}
